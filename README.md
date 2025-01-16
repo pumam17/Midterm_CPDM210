@@ -4,6 +4,7 @@
 <h1>Python project</h1>
 </head>
 <body>
+<p>https://www.online-python.com/</p>
 <p>This is a application for giving employee's and management a discount on purchases.</p>
 <p>***Employee's are only allowed $200 in discount every year***</p>
 <h1>Test Cases (With input and expected results).</h1>
