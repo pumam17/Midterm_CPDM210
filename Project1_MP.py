@@ -33,7 +33,7 @@ def Validate_Integer_Input( int_Input ):
             print("Input Must Be 0 or More")
    except ValueError:
         int_Input = int(0)
-        print("Input Must be Numeric")
+        print("Input Must be a Whole Number")
    return int_Input
 
 
