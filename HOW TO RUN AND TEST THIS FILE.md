@@ -5,7 +5,7 @@
 </head>
 <body>
 <p>1.Click on Project1_MP.py</p>
-<img src="/images/imgCPDM0.jpg" alt="click on the .py file" title="click .py file">
+<img src="" alt="click on the .py file" title="click .py file">
 <p>2.Copy all text from the file (copy raw file in the top right corner of the file).</p>
 <img src="/images/imgCPDM1.jpg" alt="copy all text from .py file" title="copy text">
 <p>3.Open your python interpreter (https://www.online-python.com/).</p>
