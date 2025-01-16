@@ -4,8 +4,8 @@
 <h1>Python project</h1>
 </head>
 <body>
-<h6>This is a application for giving employee's and management a discount on purchases.</h6>
-<h6>***Employee's are only allowed $200 in discount every year***</h6>
+<p>This is a application for giving employee's and management a discount on purchases.</p>
+<p>***Employee's are only allowed $200 in discount every year***</p>
 <h1>Test Cases (With input and expected results).</h1>
 <h3>Test Case : 1</h3>
 <h5>Inputs</h5>
