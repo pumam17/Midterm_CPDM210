@@ -17,7 +17,7 @@
 <h5>Outputs</h5>
 <p>EmployeeDiscountPercentage:&emsp;40%</p>
 <p>Discount $ used this year:&emsp;200$</p>
-<p>Total purchase today before discount:&emsp;100$</p>
+<p>Total purchase today before discount:&emsp;60$</p>
 <p>Employee discount this purchase:&emsp;0$</p>
 <p>Total with discount:&emsp;100$</p>
 <h3>Test Case : 2</h3>
@@ -29,7 +29,7 @@
 <h5>Outputs</h5>
 <p>EmployeeDiscountPercentage:&emsp;10%</p>
 <p>Discount $ used this year:&emsp;190$</p>
-<p>Total purchase today before discount:&emsp;100$</p>
+<p>Total purchase today before discount:&emsp;90$</p>
 <p>Employee discount this purchase:&emsp;10$</p>
 <p>Total with discount:&emsp;90$</p>
 <h3>Test Case : 3</h3>
@@ -41,7 +41,7 @@
 <h5>Outputs</h5>
 <p>EmployeeDiscountPercentage:&emsp;14%</p>
 <p>Discount $ used this year:&emsp;0$</p>
-<p>Total purchase today before discount:&emsp;100$</p>
+<p>Total purchase today before discount:&emsp;86$</p>
 <p>Employee discount this purchase:&emsp;14$</p>
 <p>Total with discount:&emsp;86$</p>
 <h3>Test Case : 4</h3>
@@ -53,7 +53,7 @@
 <h5>Outputs</h5>
 <p>EmployeeDiscountPercentage:&emsp;20%</p>
 <p>Discount $ used this year:&emsp;200$</p>
-<p>Total purchase today before discount:&emsp;100$</p>
+<p>Total purchase today before discount:&emsp;80$</p>
 <p>Employee discount this purchase:&emsp;0$</p>
 <p>Total with discount:&emsp;100$</p>
 <h3>Test Case : 5</h3>
@@ -65,7 +65,7 @@
 <h5>Outputs</h5>
 <p>EmployeeDiscountPercentage:&emsp;25%</p>
 <p>Discount $ used this year:&emsp;250$</p>
-<p>Total purchase today before discount:&emsp;100$</p>
+<p>Total purchase today before discount:&emsp;75$</p>
 <p>Employee discount this purchase:&emsp;0$</p>
 <p>Total with discount:&emsp;100$</p>
 <h3>Daily Total ***after 5 test cases***</h3>
