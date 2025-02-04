@@ -196,7 +196,7 @@ def Display_Totals(dblDiscount, dblDiscountYTD, dblTodaysPurchaseTotal, dblDisco
     print("b.YTD Amount of discount in dollars ", strDiscountYTD)
     print("c.Total purchase today before discount", strTodaysPurchaseTotal)
     print("d.Employee discount this purchase ", strDiscountTotal)
-    print("e.Total with discount ", dblTotalWithDiscount)
+    print("e.Total with discount ", strTotalWithDiscount)
 
 
 
